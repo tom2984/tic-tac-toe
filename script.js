@@ -10,19 +10,21 @@ const GameBoard = (function () {
 });
 
 
-const gameController {
+const gameController = {
 
-  playerOne = {
+  playerOne: {
     name: playerOneName, 
     score: 0
   },
 
-  playerTwo = {
+  playerTwo: {
     name: playerTwoName,
     score: 0
   }
 
-}
+};
+
+
 
 
 /* */
